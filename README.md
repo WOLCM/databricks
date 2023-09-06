@@ -27,10 +27,10 @@ Table of Contents
 ├── .bronze
 │   ├── azure_extract
 |   ├── combined_census
-|   └── other_refined_data
+|   └── other_refined_data (not in use)
 ├── .silver
 │   ├── census_silver_notebook
-|   ├── happiness_index_regression
+|   ├── happiness_index_regression(not in use)
 |   └── risk_factor
 ├── .gold
 |   └── census_gold_notebook
