@@ -51,7 +51,7 @@ Some descriptions regarding files:
 ## Overview
 
 > **_NOTE:_**  
-At the time of writing, [ML Models in Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/mlflow/models-in-uc-example) are in Public Peview.
+At the time of writing, [ML Models in Unity Catalog](https://learn.microsoft.com/en-us/azure/databricks/mlflow/models-in-uc-example) are in Public Preview.
 In this project, we are using [Databricks Runtime 13.2 ML](https://docs.databricks.com/en/release-notes/runtime/13.2ml.html).
 
 ### Gathering datasets
