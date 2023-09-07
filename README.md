@@ -46,6 +46,8 @@ Some descriptions regarding files:
 - `risk_factor` - Takes various features from the Census data and uses the Elbow Method to determine the optimal number of clusters (risk factor levels in this case), and uses a KMeans model with that optimal number of clusters to put each zip code into its appropraite risk factor cluster [low risk, moderate risk, high risk].
 - `census_gold_notebook` - Performs queries on the Census data by zip code with the risk factor for each zip included.
 
+![Screenshot](WOLCM_Risk_Factor_Diagram.png)
+
 ## Overview
 
 > **_NOTE:_**  
