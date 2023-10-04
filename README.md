@@ -39,7 +39,7 @@ Table of Contents
 
 Some descriptions regarding files:
 - `azure_extract` - Handles data ingestion by gathering datasets from Azure Storage Container.
-- `combined_census` - Combines Census datasets, which were seperate datasets for each year from 2011-2018.
+- `combined_census` - Combines Census datasets, which were separate datasets for each year from 2011-2018.
 - `other_refined_data` - Pulls in other relevant datasets that had data per zip code.
 - `census_silver_notebook` - Performs queries on the combined Census data to extract relevant information that could contribute to risk factor and provides visualizations.
 - `happiness_index_regression` - Creates a linear regression using arbitrary weights assigned to different features from census data that could potentially impact happiness. The result is a synthetic happines index.
