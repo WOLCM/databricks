@@ -131,7 +131,7 @@ spark = SparkSession.builder \
 
 account_url = "https://raw001.blob.core.windows.net"
 container_name = "raw"
-sas_token = "sp=rl&st=2023-08-08T00:08:04Z&se=2023-08-22T08:08:04Z&spr=https&sv=2022-11-02&sr=c&sig=2%2FIeIKmKVum5KQqlJw0LflH6pZ97htvQrKQ5fxMu1p0%3D"
+sas_token = ""
 
 
 
