@@ -83,7 +83,7 @@ container_name = "raw"
 # sas_token = "sp=rl&st=2023-08-08T00:08:04Z&se=2023-08-22T08:08:04Z&spr=https&sv=2022-11-02&sr=c&sig=2%2FIeIKmKVum5KQqlJw0LflH6pZ97htvQrKQ5fxMu1p0%3D"
 
 #sas token will expire on 12/31/23
-sas_token = "sp=racwdlmeop&st=2023-09-08T14:50:54Z&se=2023-12-31T23:50:54Z&sv=2022-11-02&sr=c&sig=Kn9k1vmpPRywYwmMtOQXupOIEjHptTIGXDjBvJvrJcE%3D"
+sas_token = ""
 
 #make sure the correct container persmissions are granted to create tables
 
